@@ -1,2 +1,2 @@
 # svnTest
-Simply testing for SVN
+Simply testing for SVN within Github.
